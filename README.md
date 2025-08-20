@@ -1,4 +1,5 @@
 ### Hey!
-- 👋 I’m Mario
-- 🌱 I’m currently studying Industrial Engineering at PUCV
-- 🤔 I’m interested in data science, coding and traveling 
+
+- 👋 I'm Mario
+- 👀 I work with AI and data to solve real-world problems.
+- 🌱 I'm always looking for a new challenge or project to work on.
